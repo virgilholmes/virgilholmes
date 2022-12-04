@@ -6,5 +6,5 @@ pumpkin i carved this year
 
 ## Projects of mine
 
-##### DSmodding
+### DSmodding
 DSmodding is a discord/group of people who like to mod the original DS, DSlite, and DSi.
