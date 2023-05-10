@@ -8,7 +8,7 @@
   projects: {
                         cardsagainstvinny: "A cards against humanity webclone with all custom cards",
                         sp0ck: "A proxy service",
-                        scarletreply: "A twitter bot that replies using ChatGPT."
+                        scarletreply: "A twitter bot that replies using ChatGPT"
                       },
  currently doing: "working on cardsagainstvinny"
 } *
