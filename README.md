@@ -4,13 +4,14 @@
 ```yaml
 * const virgil = {
   pronouns: "he" | "him",
-  code: [Javascript, Python, HTML, CSS, Typescript],
+  code: [Javascript, Python, HTML, CSS, NodeJS],
   projects: {
-                        cardsagainstvinny: "A cards against humanity webclone with all custom cards",
+                        walrus: "A simple browser coded in python and uses the chromium engine.",
                         sp0ck: "A proxy service",
+                        silk: "A link shorting website.",
                         scarletreply: "A twitter bot that replies using ChatGPT"
                       },
- currently doing: "working on cardsagainstvinny"
+ currently doing: "working on a couple diffrent project right now."
 } *
 ```
 
