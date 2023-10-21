@@ -1,5 +1,5 @@
-# Hi! I'm Virgil!
-![Twitter Follow](https://img.shields.io/twitter/follow/virgilholmes404?style=social)
+# virgil holmes
+
 
 ```yaml
 * const virgil = {
