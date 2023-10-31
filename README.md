@@ -9,7 +9,7 @@
                         walrus: "A simple browser coded in python and uses the chromium engine.",
                         sp0ck: "A proxy service",
                         silk: "A link shorting website.",
-                        scarletreply: "A twitter bot that replies using ChatGPT"
+                        antlr: "A lemmy fork."
                       },
  currently doing: "working on a couple diffrent project right now."
 } *
