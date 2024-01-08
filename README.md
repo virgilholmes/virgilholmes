@@ -9,7 +9,7 @@
                         walrus: "A simple browser coded in python and uses the chromium engine.",
                         sp0ck: "A proxy service",
                         silk: "A link shorting website.",
-                        antlr: "A proxy and game website."
+                        protobot-on-mac: "protobot design tool on mac working with wineskin."
                       },
  currently doing: "working on a couple diffrent project right now."
 } *
