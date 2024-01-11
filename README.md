@@ -10,6 +10,7 @@
                         sp0ck: "A proxy service",
                         silk: "A link shorting website.",
                         protobot-on-mac: "protobot design tool on mac working with wineskin."
+                        polar: "A flash player using Electron."
                       },
  currently doing: "working on a couple diffrent project right now."
 } *
