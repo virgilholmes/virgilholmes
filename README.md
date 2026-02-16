@@ -7,3 +7,5 @@ when i’m not working on side projects, i enjoy learning new technologies, expe
 always open to collaborating or talking through cool ideas.
 
 x: @virgilholmes_
+
+email: me@virgilholmes.com
