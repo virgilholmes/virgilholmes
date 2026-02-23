@@ -1,6 +1,6 @@
 hi, i'm virgil 👋
 
-i’m a high school student and the creator of the artifical press. a fully ai written newspaper.
+i’m a high school student.
 
 when i’m not working on side projects, i enjoy learning new technologies, experimenting, and just bulilding out ideas.
 
