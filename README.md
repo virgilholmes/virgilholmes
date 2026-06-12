@@ -1,11 +1,23 @@
-hi, i'm virgil 👋
+# hi, im virgil
 
-i’m a high school student.
+i like to build things on the internet.
 
-when i’m not working on side projects, i enjoy learning new technologies, experimenting, and just bulilding out ideas.
+im a high school student interested in:
 
-always open to collaborating or talking through cool ideas.
+* prediction markets
+* ai systems
+* developer tools
+* infrastructure
+
+currently building side projects and learning as i go.
 
 x: @virgilholmes_
 
-email: me@virgilholmes.com
+website: [virgilholmes.com](https://virgilholmes.com)
+
+email: [me@virgilholmes.com](mailto:me@virgilholmes.com)
+
+current tech stack:
+```
+next.js, typescript, postgres, redis, docker, linux, aws, and vercel
+```
