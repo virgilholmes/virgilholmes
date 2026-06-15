@@ -1,4 +1,4 @@
-# hi, im virgil
+# hi, im virgil 🦅
 
 i like to build things on the internet.
 
