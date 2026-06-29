@@ -6,7 +6,7 @@ im a high school student interested in:
 
 * prediction markets
 * ai systems
-* developer tools
+* decentralized finance technologies
 * infrastructure
 
 currently building side projects and learning as i go.
