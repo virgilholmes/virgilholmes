@@ -13,7 +13,7 @@ currently building side projects and learning as i go.
 
 x: @virgilholmes_
 
-website: [virgilholmes.com](https://virgilholmes.com)
+website: [v1rg.com](https://v1rg.com)
 
 email: [me@virgilholmes.com](mailto:me@virgilholmes.com)
 
